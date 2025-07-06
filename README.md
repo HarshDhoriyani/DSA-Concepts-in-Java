@@ -63,7 +63,7 @@ This project is licensed under the MIT License.
 
 Feel free to use, modify, and distribute the code with proper attribution.
 
-See the LICENSE file for more details.
+See the [LICENSE file](https://github.com/HarshDhoriyani/DSA-Concepts-in-Java/blob/main/LICENSE) for more details.
 
 ## 👨‍💻 Author
 Harsh Dhoriyani
