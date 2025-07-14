@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Max_SubArraySum_2 {
+public class MaxSubArraySum2 {
     public static void Max_SubArraySum(int numbers[]) {
         int currsum = 0;
         int maxsum = Integer.MIN_VALUE;

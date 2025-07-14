@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Stocks {
+public class Buy_Sell_Stocks {
     public static int buy_sell_stocks(int prices[]) {
         int buyPrice = Integer.MAX_VALUE;
         int maxProfit = 0;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SubArrays {
+public class PrintSubArrays {
 
     public static void printSubarrays(int numbers[]) {
         int ts = 0; // Total subarrays

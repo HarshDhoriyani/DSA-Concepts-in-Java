@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Max_SubArraySum_3 {
+public class MaxSubArraySum3 {
 
     // KADANE'S ALGORITHM
     public static void max_subarraySum(int numbers[]) {
